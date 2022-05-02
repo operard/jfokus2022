@@ -1,0 +1,23 @@
+﻿RACEID;YEAR;ROUND;NAME;F1DATE;TIME;URL;SCORE;DNF_COUNT;DNF_DUE_TO_ACCIDENT_COUNT;WEATHER;WEATHER_WET;CIRCUITREF;YEAR_C;RACE_COUNT;NAME_YEAR;OVERTAKEN_POSITIONS_TOTAL;LAPS_WITH_CHANGE_POS_1;LAPS_WITH_CHANGE_POS_1_5;OVERTAKEN_POSITIONS_DUE_TO_PITSTOP_TOTAL;OVERTAKEN_POSITIONS_REAL_TOTAL;MAX_COMEBACKSCORE;RANK_VERSUS_POSITION;SAFETY_CAR
+1064;2021;13;Dutch Grand Prix;5/9/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix;6.5;3;0;;N;zandvoort;2021;1;2021 Dutch Grand Prix;93;2;8;18;75;12;10;0
+1071;2021;19;Brazilian Grand Prix;14/11/21 00:00;17:00:00;http://en.wikipedia.org/wiki/S√£o_Paulo_Grand_Prix;8.3;2;0;;N;interlagos;2021;1;2021 Brazilian Grand Prix;171;5;18;32;139;11;3;1
+1059;2021;7;French Grand Prix;20/6/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_French_Grand_Prix;8.3;0;0;;N;ricard;2021;1;2021 French Grand Prix;166;4;11;112;54;11;2;0
+1061;2021;10;British Grand Prix;18/7/21 00:00;14:00:00;http://en.wikipedia.org/wiki/2021_British_Grand_Prix;6.3;2;1;;N;silverstone;2021;1;2021 British Grand Prix;117;1;9;0;117;11;10;0
+1065;2021;14;Italian Grand Prix;12/9/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix;8.4;5;2;;N;monza;2021;1;2021 Italian Grand Prix;65;5;9;10;55;12;12;1
+1070;2021;18;Mexican Grand Prix;7/11/21 00:00;19:00:00;http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix;5.8;2;2;;N;rodriguez;2021;1;2021 Mexican Grand Prix;78;2;11;17;61;8;7;1
+1066;2021;15;Russian Grand Prix;26/9/21 00:00;12:00:00;http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix;9.0;2;1;;Y;sochi;2021;1;2021 Russian Grand Prix;243;4;20;76;167;15;12;0
+1055;2021;4;Spanish Grand Prix;9/5/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix;6.5;1;0;;N;catalunya;2021;1;2021 Spanish Grand Prix;161;3;12;31;130;11;3;1
+1067;2021;16;Turkish Grand Prix;10/10/21 00:00;12:00:00;http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix;6.6;0;0;;Y;istanbul;2021;1;2021 Turkish Grand Prix;67;2;9;14;53;9;11;0
+1052;2021;1;Bahrain Grand Prix;28/3/21 00:00;15:00:00;https://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix;8.6;4;1;;N;bahrain;2021;1;2021 Bahrain Grand Prix;239;3;21;35;204;16;4;0
+1073;2021;22;Abu Dhabi Grand Prix;12/12/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix;6.3;5;1;;N;yas_marina;2021;1;2021 Abu Dhabi Grand Prix;129;3;14;16;113;9;18;1
+1062;2021;11;Hungarian Grand Prix;1/8/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix;8.7;7;6;;Y;hungaroring;2021;1;2021 Hungarian Grand Prix;97;5;15;12;85;12;27;1
+1057;2021;6;Azerbaijan Grand Prix;6/6/21 00:00;12:00:00;http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix;7.8;4;2;;N;BAK;2021;1;2021 Azerbaijan Grand Prix;130;6;15;26;104;12;23;1
+1054;2021;3;Portuguese Grand Prix;2/5/21 00:00;14:00:00;http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix;6.2;1;0;;N;portimao;2021;1;2021 Portuguese Grand Prix;121;3;11;12;109;10;8;1
+1072;2021;21;Saudi Arabian Grand Prix;5/12/21 00:00;17:30:00;http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix;6.1;5;4;;N;jeddah;2021;1;2021 Saudi Arabian Grand Prix;82;4;9;20;62;9;12;1
+1069;2021;17;United States Grand Prix;24/10/21 00:00;19:00:00;http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix;7.7;3;0;;N;americas;2021;1;2021 United States Grand Prix;141;3;10;4;137;9;0;0
+1053;2021;2;Emilia Romagna Grand Prix;18/4/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix;8.2;4;3;;Y;imola;2021;1;2021 Emilia Romagna Grand Prix;109;2;11;23;86;10;8;1
+1051;2021;20;Qatar Grand Prix;21/11/21 00:00;14:00:00;http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix;6.4;0;0;;N;losail;2021;1;2021 Qatar Grand Prix;202;0;16;147;55;0;0;0
+1056;2021;5;Monaco Grand Prix;23/5/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix;4.0;2;0;;N;monaco;2021;1;2021 Monaco Grand Prix;29;0;4;27;2;6;21;0
+1058;2021;8;Styrian Grand Prix;27/6/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix;5.4;2;1;;N;red_bull_ring;2021;1;2021 Styrian Grand Prix;98;0;8;25;73;11;5;0
+1060;2021;9;Austrian Grand Prix;4/7/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix;6.8;2;2;;N;red_bull_ring;2021;1;2021 Austrian Grand Prix;169;0;10;32;137;12;8;1
+1063;2021;12;Belgian Grand Prix;29/8/21 00:00;13:00:00;http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix;1.9;0;0;;Y;spa;2021;1;2021 Belgian Grand Prix;0;0;0;;;0;29;1
