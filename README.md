@@ -1,6 +1,11 @@
 # jfokus2022
 
-Jfokus 2022 Event URL for each developer 
+
+The online livelabs documentation for the JFokus2022 event could be found [here](https://operard.github.io/learning-library/analytics-library/redbull-multitenant/workshops/freetier/?lab=intro) 
+
+The documentation to follow instructions could be found [here](https://github.com/operard/jfokus2022/blob/main/doc/Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%202-MAY-2022%20JFOKUS.pdf)
+
+During the Jfokus 2022 Event, each developer must use the next URLs: 
 
 
 ## Connect to Oracle Autonomous Database ADW
