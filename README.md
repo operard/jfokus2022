@@ -21,6 +21,8 @@ Open the following URL, **replace the "workshop" part of the URL with the worksh
 
    https://redbullanalyticsoac-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/
    
+   Login with the username and password provided by your workshop instructor.
+   
    
 ## Connect to OML Notebooks Environment
 
